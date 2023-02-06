@@ -1,6 +1,6 @@
 - ADMIN LOGIN DETAILS -
 
-username - admin
+username - admin1
 
 password - admin
 
@@ -20,4 +20,4 @@ WITHOUT THE DATABASE THE PROJECT WON'T RUN.
 ***** FOR MORE PROJECTS :- https://code-projects.org/ *****
 
 
-#THANK YOU FOR DOWNLOADING
+THANK YOU FOR DOWNLOADING
